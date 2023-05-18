@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        int amount = 15023; // Объявляете переменные для входных данных и
+        int amount = 15024; // Объявляете переменные для входных данных и
         int mCoast = 20; // параметров программы: одну для хранения
         int miles = (amount / mCoast); // стоимости билета, другую для хранения количества
         System.out.println(miles);// рублей для одной бонусной мили
